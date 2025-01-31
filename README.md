@@ -15,3 +15,5 @@ Welcome to my GitHub profile. Here's a little about me:
   - Email: bagwanaran@gmail.com
 
 Feel free to reach out if you're interested in collaborating or just want to chat about tech! 🚀
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=01bps.01bps)
