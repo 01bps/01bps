@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bagwan! 👋
 
-<!--
-**01bps/01bps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. Here's a little about me:
 
-Here are some ideas to get you started:
+- **Currently a 3rd-year Electrical Engineering student** at Rajiv Gandhi Institute of Petroleum Technology (RGIPT) 🎓
+- **Passionate about Software Development, AI/ML, and Emerging Technologies** 💻
+- **Skills**:
+  - Programming Languages: Java, Python, C, C++, HTML, CSS
+  - Software/Frameworks: Android Studio, VS Code, Git, GitHub, Heroku, Flask, Matlab, Simulink, AutoCAD
+  - Technologies: MySQL, MongoDB, OAuth 2.0
+- **Current Focus**: Backend Development, Web Applications, Android Development, and Automation 🌱
+- **Looking to Collaborate**: Always open to contributing to open-source and learning from others! 🌍
+- **Let's Connect**:  
+  - [LinkedIn](https://www.linkedin.com/in/01bps)
+  - Email: bagwanaran@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you're interested in collaborating or just want to chat about tech! 🚀
