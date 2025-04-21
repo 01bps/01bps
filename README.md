@@ -9,7 +9,7 @@ Welcome to my GitHub profile. Here's a little about me:
   - Software/Frameworks: Android Studio, VS Code, Git, Heroku, Flask, Matlab, Simulink, AutoCAD, Proteus
   - Technologies: MySQL, MongoDB, SQLite, OAuth 2.0
 - **Current Focus**: Backend Development, Web Applications, Android Development, and Automation.
-- **Looking to Collaborate**: Open to contributing to open-source and learning from others! 🌍 Tag me with `@01bps`
+- **Looking to Collaborate**: Open to contributing to open-source projects and learning from others! Just tag me with `@01bps`
 - **Let's Connect**:  
   - [LinkedIn](https://www.linkedin.com/in/01bps)
   - Email: bagwanaran@gmail.com
