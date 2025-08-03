@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. Here's a little about me:
 
-- **Currently a 3rd-year Undergrad Student** at Rajiv Gandhi Institute of Petroleum Technology (RGIPT)
+- **Currently a Final year Undergrad Student** at Rajiv Gandhi Institute of Petroleum Technology (RGIPT)
 - **Passionate about Software Development, AI/ML Applications, and Emerging Technologies** 
 - **Skills**:
   - Programming Languages: Java, Python, C, C++, HTML, CSS, Javascript
